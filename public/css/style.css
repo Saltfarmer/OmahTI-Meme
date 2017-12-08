@@ -1,0 +1,25 @@
+.header-content{
+    margin-top : 50px;
+}
+
+.tabs .indicator{
+    background-color:rgb(255, 255, 255);/*your color*/
+}
+
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.brand-logo{
+    margin-left: 10px;
+}
+
+.post-pict img{
+    width: 100%;
+}
